@@ -8,5 +8,5 @@ END Shameem_Azwad_mux_2_1;
 
 ARCHITECTURE LogicFunction OF Shameem_Azwad_mux_2_1 IS
 BEGIN
-	f = (A AND NOT X) OR (B AND X);
+	Y <= ((A AND NOT X) OR (B AND X));
 END LogicFunction ;
