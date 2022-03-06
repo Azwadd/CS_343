@@ -2,7 +2,7 @@ library ieee;
 use ieee.std_logic_1164.all;
 
 entity Shameem_03_06_22_NBitFullAdderSub is
-	generic (N: integer := 4);
+	generic (N: integer := 16);
 	port (Shameem_03_06_22_Operation: in STD_lOGIC;
 	      Shameem_03_06_22_A, Shameem_03_06_22_B: in STD_lOGIC_VECTOR(N-1 downto 0);
 	      Shameem_03_06_22_Sum: out STD_lOGIC_VECTOR(N-1 downto 0);
