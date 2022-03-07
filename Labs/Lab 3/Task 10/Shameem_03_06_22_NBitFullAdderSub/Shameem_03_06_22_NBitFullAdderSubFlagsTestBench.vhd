@@ -38,7 +38,7 @@ begin
 				report "Input A = " & integer'image(to_integer(signed(Shameem_03_06_22_A_input)));
 				report "Input B = " & integer'image(to_integer(signed(Shameem_03_06_22_B_input)));
 				report "The result = " & integer'image(to_integer(signed(Shameem_03_06_22_Result)));
-				report "The value of actual SUM should be " & integer'image(to_integer(signed(Shameem_03_06_22_Answer))) severity failure;
+				report "The result is correct because the actual value = " & integer'image(to_integer(signed(Shameem_03_06_22_Answer)));
 			else
 				report "Error detected. The Simulation Failed";
 				report "Input A = " & integer'image(to_integer(signed(Shameem_03_06_22_A_input)));

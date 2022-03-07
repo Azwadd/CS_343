@@ -21,3 +21,5 @@ run -all
 #    Time: 0 ps  Iteration: 1  Instance: /shameem_03_06_22_nbitlpmaddsubtestbench/U1/lpm_add_sub_component/L2/V
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 1  Instance: /shameem_03_06_22_nbitlpmaddsubtestbench/U1/lpm_add_sub_component/L2/V
+# End time: 16:45:54 on Mar 06,2022, Elapsed time: 0:02:34
+# Errors: 0, Warnings: 4

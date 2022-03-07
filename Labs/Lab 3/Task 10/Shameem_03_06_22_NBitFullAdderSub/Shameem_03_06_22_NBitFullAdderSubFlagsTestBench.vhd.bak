@@ -27,7 +27,7 @@ begin
 			Shameem_03_06_22_addsub <= '0';
 			Shameem_03_06_22_A_input <= "0000000000011110";
 			Shameem_03_06_22_B_input <= "0000000000000001";
-			Shameem_03_06_22_Answer <= "0000000000010011";
+			Shameem_03_06_22_Answer <= "0000000000011111";
 			wait for 1 ns;
 			if ((Shameem_03_06_22_Result = Shameem_03_06_22_Answer)) then
 				Shameem_03_06_22_Error <= '0';
@@ -38,7 +38,7 @@ begin
 				report "Input A = " & integer'image(to_integer(signed(Shameem_03_06_22_A_input)));
 				report "Input B = " & integer'image(to_integer(signed(Shameem_03_06_22_B_input)));
 				report "The result = " & integer'image(to_integer(signed(Shameem_03_06_22_Result)));
-				report "The value of actual SUM should be " & integer'image(to_integer(signed(Shameem_03_06_22_Answer))) severity failure;
+				report "The result is correct because the actual value = " & integer'image(to_integer(signed(Shameem_03_06_22_Answer)));
 			else
 				report "Error detected. The Simulation Failed";
 				report "Input A = " & integer'image(to_integer(signed(Shameem_03_06_22_A_input)));
