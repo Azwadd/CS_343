@@ -1,0 +1,17 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Shameem_03132022_O",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_03132022_Sel",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

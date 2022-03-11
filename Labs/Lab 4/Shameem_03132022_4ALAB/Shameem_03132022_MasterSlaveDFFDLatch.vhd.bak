@@ -1,0 +1,14 @@
+   LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+entity Shameem_03132022_MasterSlaveDFFDLatch is
+	port (Shameem_03132022_PRN, Shameem_03132022_D, Shameem_03132022_E, Shameem_03132022_CLRN: IN STD_LOGIC;
+			Shameem_03132022_Q: OUT STD_lOGIC);
+end Shameem_03132022_MasterSlaveDFFDLatch;
+
+architecture arch of Shameem_03132022_MasterSlaveDFFDLatch is
+begin
+	Shameem_03132022_Q <= Shameem_03132022_D AND Shameem_03132022_E;
+end arch;
+			
+		
