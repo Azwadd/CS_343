@@ -1,5 +1,5 @@
 Assembler report for Shameem_03_06_22_NBitLPMAddSub
-Sun Mar 06 12:08:54 2022
+Wed Mar 09 13:39:13 2022
 Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
 
 
@@ -38,7 +38,7 @@ https://fpgasoftware.intel.com/eula.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Sun Mar 06 12:08:54 2022 ;
+; Assembler Status      ; Successful - Wed Mar 09 13:39:13 2022 ;
 ; Revision Name         ; Shameem_03_06_22_NBitLPMAddSub        ;
 ; Top-level Entity Name ; Shameem_03_06_22_NBitLPMAddSub        ;
 ; Family                ; Cyclone V                             ;
@@ -78,14 +78,14 @@ https://fpgasoftware.intel.com/eula.
 Info: *******************************************************************
 Info: Running Quartus Prime Assembler
     Info: Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
-    Info: Processing started: Sun Mar 06 12:08:50 2022
+    Info: Processing started: Wed Mar 09 13:39:07 2022
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off Shameem_03_06_22_NBitLPMAddSub -c Shameem_03_06_22_NBitLPMAddSub
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
 Info (115030): Assembler is generating device programming files
 Info: Quartus Prime Assembler was successful. 0 errors, 1 warning
     Info: Peak virtual memory: 4844 megabytes
-    Info: Processing ended: Sun Mar 06 12:08:54 2022
-    Info: Elapsed time: 00:00:04
+    Info: Processing ended: Wed Mar 09 13:39:13 2022
+    Info: Elapsed time: 00:00:06
     Info: Total CPU time (on all processors): 00:00:05
 
 
