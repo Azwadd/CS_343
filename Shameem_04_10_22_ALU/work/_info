@@ -1,0 +1,588 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Windows/system32
+Eshameem_04_10_22_3portram
+Z0 w1648934910
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 39
+Z4 dC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU
+Z5 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_3PortRAM.vhd
+Z6 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_3PortRAM.vhd
+l0
+L5 1
+VdBOdL]bdl6YYhnJ8:>nD^0
+!s100 I8<:@Uh79[@^`?X2=PPX[3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1649261959
+!i10b 1
+Z9 !s108 1649261959.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_3PortRAM.vhd|
+Z11 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_3PortRAM.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aarch
+R1
+R2
+R3
+DEx4 work 25 shameem_04_10_22_3portram 0 22 dBOdL]bdl6YYhnJ8:>nD^0
+!i122 39
+l17
+L14 137
+V<1NcLl[V`nYLCkAWVZ3D_0
+!s100 PghlE_DmRW4`P1`gDkEJL3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eshameem_04_10_22_alu
+Z14 w1648961450
+R1
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z16 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+R2
+R3
+!i122 40
+R4
+Z17 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_ALU.vhd
+Z18 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_ALU.vhd
+l0
+L6 1
+V2MlFbzTLnUIoDc1Ca?N9d2
+!s100 oh^ZeMYG=oQ1@=]NgGGCF3
+R7
+32
+R8
+!i10b 1
+R9
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_ALU.vhd|
+Z20 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_ALU.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R15
+R16
+R2
+R3
+DEx4 work 20 shameem_04_10_22_alu 0 22 2MlFbzTLnUIoDc1Ca?N9d2
+!i122 40
+l111
+L19 160
+VO[L<Hibg?zjFAzVWCE<GM3
+!s100 8N^PZcOZKzo2e8Ra;::O12
+R7
+32
+R8
+!i10b 1
+R9
+R19
+R20
+!i113 1
+R12
+R13
+Eshameem_04_10_22_bitwiseoperations
+Z21 w1648928605
+R1
+R15
+R16
+R2
+R3
+!i122 41
+R4
+Z22 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_BitwiseOperations.vhd
+Z23 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_BitwiseOperations.vhd
+l0
+L6 1
+VAC`EfVh`nDdL;HPi7I_lB0
+!s100 eb2@ji6aNSMi>lfDYlEkN2
+R7
+32
+R8
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_BitwiseOperations.vhd|
+Z25 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_BitwiseOperations.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R15
+R16
+R2
+R3
+DEx4 work 34 shameem_04_10_22_bitwiseoperations 0 22 AC`EfVh`nDdL;HPi7I_lB0
+!i122 41
+l17
+L15 23
+V=a6d^;zdJ8NhLeceiURSP2
+!s100 G[@cGLI9`YXOUZGC8LNBD0
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+R13
+Eshameem_04_10_22_datamemory
+Z26 w1648937361
+R1
+R2
+R3
+!i122 42
+R4
+Z27 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_DataMemory.vhd
+Z28 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_DataMemory.vhd
+l0
+L5 1
+VTQa7[:@Dz4903JcXLO9=90
+!s100 i^7]m=:EMal1J08omoY2B0
+R7
+32
+R8
+!i10b 1
+R9
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_DataMemory.vhd|
+Z30 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_DataMemory.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 27 shameem_04_10_22_datamemory 0 22 TQa7[:@Dz4903JcXLO9=90
+!i122 42
+l16
+L13 28
+Vo3LTB1>SB0XA17miZD<:@0
+!s100 M]JcagG:[aE0<<[41QMDm1
+R7
+32
+R8
+!i10b 1
+R9
+R29
+R30
+!i113 1
+R12
+R13
+Eshameem_04_10_22_imm16
+Z31 w1648869762
+R2
+R3
+!i122 43
+R4
+Z32 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_IMM16.vhd
+Z33 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_IMM16.vhd
+l0
+L4 1
+V0lZ=YGIT:1O1Hio63@GW]3
+!s100 ^HkMN=mXJgJo<:3IKY6:k3
+R7
+32
+R8
+!i10b 1
+R9
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_IMM16.vhd|
+Z35 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_IMM16.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 22 shameem_04_10_22_imm16 0 22 0lZ=YGIT:1O1Hio63@GW]3
+!i122 43
+l15
+Z36 L13 18
+VAcaBP>R?T2XVBD1EBdkR`3
+!s100 AaDQfEDmP5=RX3_H;Idlj3
+R7
+32
+R8
+!i10b 1
+R9
+R34
+R35
+!i113 1
+R12
+R13
+Eshameem_04_10_22_instructionregister
+Z37 w1648936873
+R1
+R2
+R3
+!i122 44
+R4
+Z38 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_InstructionRegister.vhd
+Z39 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_InstructionRegister.vhd
+l0
+L5 1
+VzY7[[7e;I>EU?JfbIgnBB0
+!s100 TbQo3kblXiiHFoTcBWlUH3
+R7
+32
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_InstructionRegister.vhd|
+Z41 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_InstructionRegister.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R2
+R3
+DEx4 work 36 shameem_04_10_22_instructionregister 0 22 zY7[[7e;I>EU?JfbIgnBB0
+!i122 44
+l18
+L15 160
+VV_P5;fi>dYBLT[NEf9<n^0
+!s100 j08Pb=`QTO3AhIMXd2Y?e2
+R7
+32
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Eshameem_04_10_22_mar
+Z42 w1648875119
+R1
+R15
+R16
+R2
+R3
+!i122 45
+R4
+Z43 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_MAR.vhd
+Z44 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_MAR.vhd
+l0
+L6 1
+VFQd8OHA0kGiX89DjVQcj33
+!s100 ;2fRfZY6M^5MGF=;ej>FQ3
+R7
+32
+R8
+!i10b 1
+R9
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_MAR.vhd|
+Z46 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_MAR.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R15
+R16
+R2
+R3
+DEx4 work 20 shameem_04_10_22_mar 0 22 FQd8OHA0kGiX89DjVQcj33
+!i122 45
+l17
+Z47 L15 18
+V@5Ve@^>?EN1JJdHCo2z]52
+!s100 e;G_nD3JJz:7R?a=nW3T:0
+R7
+32
+R8
+!i10b 1
+R9
+R45
+R46
+!i113 1
+R12
+R13
+Eshameem_04_10_22_mdr
+Z48 w1648875118
+R1
+R15
+R16
+R2
+R3
+!i122 46
+R4
+Z49 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_MDR.vhd
+Z50 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_MDR.vhd
+l0
+L6 1
+VdJ3C^iA7LKk2=O6W2gbC>1
+!s100 ]OL0<KKk<UKSzGglCZ;`O3
+R7
+32
+Z51 !s110 1649261960
+!i10b 1
+Z52 !s108 1649261960.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_MDR.vhd|
+Z54 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_MDR.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R15
+R16
+R2
+R3
+DEx4 work 20 shameem_04_10_22_mdr 0 22 dJ3C^iA7LKk2=O6W2gbC>1
+!i122 46
+l17
+R47
+V]fjn@S_m2]J]WZX8:fWR31
+!s100 ]8`0ePDJCgKcDnOHNzcT43
+R7
+32
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R12
+R13
+Eshameem_04_10_22_nbitaddsubflags
+Z55 w1648927270
+R15
+Z56 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z57 DPx8 synopsys 10 attributes 0 22 dc>JdEHRM@6GGENe5bZ?D1
+Z58 DPx4 ieee 14 std_logic_misc 0 22 dN]HY6l5ohPcZ:TaC@B;53
+R2
+R3
+!i122 47
+R4
+Z59 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_NBitAddSubFlags.vhd
+Z60 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_NBitAddSubFlags.vhd
+l0
+L6 1
+V`Tk;m1K?hdQn^O1l]M08k3
+!s100 8OeXi0mF?k1`<:NPdOhAC2
+R7
+32
+R51
+!i10b 1
+R52
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_NBitAddSubFlags.vhd|
+Z62 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_NBitAddSubFlags.vhd|
+!i113 1
+R12
+R13
+Aarch
+R15
+R56
+R57
+R58
+R2
+R3
+DEx4 work 32 shameem_04_10_22_nbitaddsubflags 0 22 `Tk;m1K?hdQn^O1l]M08k3
+!i122 47
+l19
+L16 19
+V_jGgJ?d:BFb5kR;FR>?W[0
+!s100 Ei?0g2?B4z]zN@L:9X_kG2
+R7
+32
+R51
+!i10b 1
+R52
+R61
+R62
+!i113 1
+R12
+R13
+Eshameem_04_10_22_rd
+Z63 w1648869428
+R2
+R3
+!i122 48
+R4
+Z64 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RD.vhd
+Z65 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RD.vhd
+l0
+L4 1
+V3dO`g93I7dPllfoWDiEML1
+!s100 GeMWS426IK;M;G<Fmg]5M0
+R7
+32
+R51
+!i10b 1
+R52
+Z66 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RD.vhd|
+Z67 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RD.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 19 shameem_04_10_22_rd 0 22 3dO`g93I7dPllfoWDiEML1
+!i122 48
+l15
+R36
+V8ZXTVMjVUYSeJXBT@nV_C1
+!s100 8`a:A2`cDPcNGbz`>Z^OW1
+R7
+32
+R51
+!i10b 1
+R52
+R66
+R67
+!i113 1
+R12
+R13
+Eshameem_04_10_22_rs
+Z68 w1648925107
+R2
+R3
+!i122 49
+R4
+Z69 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RS.vhd
+Z70 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RS.vhd
+l0
+L4 1
+VC5KULnUbPZ3:JH@K:U2H[1
+!s100 ah65elzz17=WV67dde<Z?2
+R7
+32
+R51
+!i10b 1
+R52
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RS.vhd|
+Z72 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RS.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 19 shameem_04_10_22_rs 0 22 C5KULnUbPZ3:JH@K:U2H[1
+!i122 49
+l16
+L13 19
+V<Hz`83<2@DJ:BYOo8PofW0
+!s100 12B`KJP[KW?5I2N@3AMOB3
+R7
+32
+R51
+!i10b 1
+R52
+R71
+R72
+!i113 1
+R12
+R13
+Eshameem_04_10_22_rt
+Z73 w1648869407
+R2
+R3
+!i122 50
+R4
+Z74 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RT.vhd
+Z75 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RT.vhd
+l0
+L4 1
+V4hQX8QkgZYhPjAc=3^KF=0
+!s100 Sm1gKbhDEXF16WmJB_<P80
+R7
+32
+R51
+!i10b 1
+R52
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RT.vhd|
+Z77 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_RT.vhd|
+!i113 1
+R12
+R13
+Aarch
+R2
+R3
+DEx4 work 19 shameem_04_10_22_rt 0 22 4hQX8QkgZYhPjAc=3^KF=0
+!i122 50
+l15
+R36
+VXgRIeg3o81BoZ5@>:<IIo1
+!s100 2zO@DU>DG9DUAj=2oQ=N?1
+R7
+32
+R51
+!i10b 1
+R52
+R76
+R77
+!i113 1
+R12
+R13
+Eshameem_04_10_22_signextender
+Z78 w1648930909
+R1
+R15
+R16
+R2
+R3
+!i122 51
+R4
+Z79 8C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_SignExtender.vhd
+Z80 FC:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_SignExtender.vhd
+l0
+L6 1
+VMKGRfBhf]8i0U^eELnYOZ2
+!s100 9^SE93RfoczX^2kfO4z[:0
+R7
+32
+R51
+!i10b 1
+R52
+Z81 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_SignExtender.vhd|
+!s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_SignExtender.vhd|
+!i113 1
+R12
+R13
+Aarch
+R1
+R15
+R16
+R2
+R3
+Z82 DEx4 work 29 shameem_04_10_22_signextender 0 22 MKGRfBhf]8i0U^eELnYOZ2
+!i122 51
+l15
+Z83 L13 5
+Z84 V2[=WcYN^khhGl6[>7i;C@3
+Z85 !s100 1nVP]WWRl1f5<enW^caCQ1
+R7
+32
+R51
+!i10b 1
+R52
+R81
+Z86 !s107 C:/Users/Azwad/Desktop/tmp/Shameem_04_10_22_ALU/Shameem_04_10_22_SignExtender.vhd|
+!i113 1
+R12
+R13

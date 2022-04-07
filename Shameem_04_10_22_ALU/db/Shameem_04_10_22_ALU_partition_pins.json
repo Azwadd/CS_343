@@ -1,0 +1,489 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Shameem_04_10_22_RDoutput[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[19]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[20]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[21]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[22]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[23]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[24]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[25]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[26]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[27]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[28]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[29]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[30]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RDoutput[31]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_O",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_N",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_Z",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_operation[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_operation[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_operation[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_operation[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_imm[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_clk",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[19]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[24]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[26]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[25]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[27]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[20]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[22]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[21]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[23]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[28]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[30]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[29]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[31]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RTinput[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[19]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[20]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[21]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[22]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[23]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[24]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[25]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[26]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[27]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[28]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[29]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[30]",
+					"strict" : false
+				},
+				{
+					"name" : "Shameem_04_10_22_RSinput[31]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
