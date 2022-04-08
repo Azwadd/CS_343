@@ -1,12 +1,12 @@
 .data
-rt: .word 0x00000003
-rd: .word 0x00000000
+rt: .word 0x00000000
+rs: .word 0x00000003
 
 .text
+lw $s0, rt
 lw $s1, rs
-lw $s2, rd
 
-
-
-sw $s2, rt
+# rt = rs | ZeroExtImm
+ori $s0, $s1, 1
+sw $s0, rt
 

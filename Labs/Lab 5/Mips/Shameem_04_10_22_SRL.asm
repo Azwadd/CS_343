@@ -1,11 +1,11 @@
 .data
-rt: .word 0x00000002
 rd: .word 0x00000000
+rt: .word 0x00000002
 
 .text
+lw $s0, rd
 lw $s1, rt
-lw $s2, rd
 
 # rd = rt << shamt
-srl $s2, $s1, 1
-sw $s2, rd
+srl $s0, $s1, 1
+sw $s0, rd
