@@ -1,14 +1,14 @@
 #pragma once
 
-float dotProduct(float a[], float b[], int N) {
-    float x = 0;
-    for (int i = 0; i < N; i++) {
-        x = x + (a[i] * b[i]);
+void dotProduct(float a[], float b[], int n, float* result) {
+    float answer = 0;
+    for (int i = 0;i < n;i++) {
+        answer = answer + (a[i] * b[i]);
     }
-    return x;
+    result[0] = answer;
 }
 
-void manualDotProduct(float* a, float* b, int N, float* result) {
+void manualDotProduct(float* a, float* b, int n, float* result) {
     __asm (
         // arguments are stored in RDI, RSI, RDX, RCX (This is done automatically  by Linux)
         "vpxor %ymm0, %ymm0, %ymm0\n" 
@@ -30,7 +30,7 @@ void manualDotProduct(float* a, float* b, int N, float* result) {
 }
 
 
-void DPPSdotProduct(float* a, float* b, int N, float* result) {
+void DPPSdotProduct(float* a, float* b, int n, float* result) {
     __asm (
         "vpxor %ymm3, %ymm3, %ymm3\n"
         ".main:\n"

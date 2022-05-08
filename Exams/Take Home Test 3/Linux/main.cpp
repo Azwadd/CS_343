@@ -7,7 +7,7 @@ using namespace std;
 int main() {
     int n = 0;
     
-    for (int i = 3; i <= 16; i++) {
+    for (int i = 4; i <= 16; i++) {
         n = (int)pow(2, i);
 
         float* a = new float[n];
@@ -21,7 +21,7 @@ int main() {
 
         cout << "Array Size : " << n << endl;
         auto start = chrono::high_resolution_clock::now();
-        DPPSdotProduct(a, b, n, result); // Function can be dotProduct, ManualDotProduct or DPPSdotProduct
+        dotProduct(a, b, n, result); // Function can be dotProduct, ManualDotProduct or DPPSdotProduct
         cout << "Dot Product Answer : " << result[0] << endl;
         auto end = chrono::high_resolution_clock::now();
         chrono::duration<double> diff = end - start;
