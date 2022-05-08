@@ -21,7 +21,7 @@ int main() {
 
         cout << "Array Size : " << n << endl;
         auto start = chrono::high_resolution_clock::now();
-        dotProduct(a, b, n, result); // Function can be dotProduct, ManualDotProduct or DPPSdotProduct
+        DPPSdotProduct(a, b, n, result); // Function can be dotProduct, ManualDotProduct or DPPSdotProduct
         cout << "Dot Product Answer : " << result[0] << endl;
         auto end = chrono::high_resolution_clock::now();
         chrono::duration<double> diff = end - start;
