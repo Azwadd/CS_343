@@ -1,3 +1,3 @@
 # CS_342-343
-Computer Organization 
+Computer Organization   
 Grade - TBD
